@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "desktop-tutorial",
+			"path": "../../../../Documents/GitHub/desktop-tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

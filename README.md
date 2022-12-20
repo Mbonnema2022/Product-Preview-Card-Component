@@ -35,8 +35,8 @@ n you add your screenshot. If you prefer not to add a screenshot, feel free to r
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-0LVy25u7KR)
+- Live Site URL: [My GitHub Pages](https://github.com/Mbonnema2022/Product-Preview-Card-Component)
 
 ## My process
 
@@ -101,7 +101,47 @@ n you add your screenshot. If you prefer not to add a screenshot, feel free to r
 
 ### Continued development
 
+I want to take some of the feed back and add to this to improve
 
+#Examples:
+
+Hey there! 👋 Here are some suggestions to help improve your code:
+
+Congrats on completing your first challenge!🎊🎆
+
+Regarding your question,
+
+flex is best for singles column/row. While grid is best for multiple columns/rows. For this challenge, either in would work.
+
+To not only improve your HTML code but to also identify the main content of you page, you will want to wrap your entire component inside the main element.
+More Info:📚
+
+MDN Main Element
+
+The image’s alt tag description needs to be improved upon to better describe what it is. You will want to assume that you are describing the image to a someone.
+More Info:📚
+
+https://www.w3.org/WAI/tutorials/images/
+
+The only heading in this component, is the name of the perfume; “Gabrielle Essence Eau De Parfum” . The rest of the text should be wrapped in a paragraph element.
+Currently, the old price (169.99) 🏷 is not being properly announced to screen readers. To fix this, you are going to wrap the the price in a del element and inside it you will add a span element with an sr-only class that will state something like “The previous price was…” and use CSS to make it only visible to screen readers.
+
+More Info:📚
+
+Del Element
+
+Your CSS Reset is extremely bare and being underutilized. To fully maximize your CSS reset, you want to add more to it.
+Here are few CSS Resets that you can look at and use to create your own or just copy and paste one that is already prebuilt.
+
+https://www.joshwcomeau.com/css/custom-css-reset/
+
+https://meyerweb.com/eric/tools/css/reset/
+
+http://html5doctor.com/html-5-reset-stylesheet/
+
+If you have any questions or need further clarification, feel free to reach out to me.
+
+Happy Coding!🎄🎁
 
 ### Useful resources
 
@@ -129,5 +169,5 @@ n you add your screenshot. If you prefer not to add a screenshot, feel free to r
 
 ## Acknowledgments
 
-I would like to acknowledge YWeb Career Academy Front End Developer Boot camp()for all they taught me in 15 weeks .I neve rthought i could get paid to learn and i am glad i did this program ,Also thank you to my instructor: Ola
+I would like to acknowledge YWeb Career Academy Front End Developer Boot camp(https://www.ywcamadison.org/what-were-doing/employment-transit/yweb-career-academy/)for all they taught me in 15 weeks .I neve rthought i could get paid to learn and i am glad i did this program ,Also thank you to my instructor: Ola
 [ola-show](https://github.com/ola-show) and the soft skills instructors and case managers Saul cortes(scortes@ywcamadison.org) and aurealia johnson(auralia ajohnson@ywcamadison.org ).If you want to learn coding and front end development contavt your local Ywca and see if they offer a YWeb Career Academy.It s worth it .

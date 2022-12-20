@@ -1,13 +1,12 @@
-/*
-
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
-
-### Neutral
-
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
-- White: hsl(0, 0%, 100%)*/
+:root {
+    --white: #ffffff;
+    --darkgrey: #747682;
+    --mediumlightgrey: #707176;
+    --darkgreen: #3D8168;
+    --black: #000000;
+    --bluishblack: #242A31;
+    --cream: #F2E9E2;
+ }
 
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
 
@@ -44,11 +43,7 @@ img{
     }
 
     
-    /*.container article:first-child img,.container article:last-child {
-        border-radius: 0;
-          
-
-    }*/
+    
     
         
     
